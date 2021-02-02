@@ -93,3 +93,5 @@ kubectl apply -f kube-deployment.yml
 ```
 
 Now browse to http://localhost:8081 and you will see the same site.
+
+2021-02-02 - a push will result in a build in codefresh now.
